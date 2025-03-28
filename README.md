@@ -6,6 +6,8 @@ Work-In-Progress web app for the [Diplomacy](https://en.wikipedia.org/wiki/Diplo
 
 Doing this on Linux, but it probably works on Windows too.
 
+You will need to install `git` and `nodejs`
+
 ```sh
 git clone https://github.com/AlpinDale/diplomacy.git
 cd diplomacy
